@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+    <samp>
+        Hello there. I'm 
+        <a href="https://fpetranzan.me/">Francesco</a>👋
+        <br> 
+        I'm a Software Engineer from Milan.
+        <br>
+        <br>
+        🚀 I'm passionate about building software solutions that make a difference. 🚀
+        <br>
+        <br>
+        #java, #python, #spring-boot, #microservices, #docker, #jenkins
+    </samp>
+</p>
 
-<!--
-**fpetranzan/fpetranzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <samp>
+        <a href="https://www.linkedin.com/in/fpetranzan/">LinkedIn</a> •
+        <a href="https://github.com/fpetranzan/">Github</a>
+    </samp>
+</div>

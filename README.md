@@ -9,7 +9,7 @@
         🚀 I'm passionate about building software solutions that make a difference. 🚀
         <br>
         <br>
-        #java, #python, #spring-boot, #microservices, #docker, #jenkins
+        #java, #spring-boot, #microservices, #redis, #docker, #jenkins
     </samp>
 </p>
 

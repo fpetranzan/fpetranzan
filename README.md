@@ -17,6 +17,7 @@
 
 <div align="center">
     <samp>
+        <a href="https://fpetranzan.me/">Website</a> •
         <a href="https://www.linkedin.com/in/fpetranzan/">LinkedIn</a> •
         <a href="https://github.com/fpetranzan/">Github</a>
     </samp>
